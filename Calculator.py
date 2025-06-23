@@ -1,4 +1,5 @@
 # The code for a calculator that takes user inputs and perform arithmetic operations until the user press '='
+# when you run the code, this will wait for the user input
 def Calculator(): 
     operators = ['+', '-', '*', '/', '^']
     currentOperator = None
